@@ -1,16 +1,31 @@
 # notes_app
+# Mobile Application Development - Lab 3: Authentication & Database Integration
 
-A new Flutter project.
+### 1. User registration
+Users can create a new account by providing their Name, Email, and Password.
+[Register Screen]
 
-## Getting Started
+### 2. User login
+Secure login for existing users to access their private notes.
+[Login Screen]
 
-This project is a starting point for a Flutter application.
+### 3. Home screen
+Upon successful login, users are greeted with a personalized welcome message.
+![Home Screen]
 
-A few resources to get you started if this is your first Flutter project:
+### 4. My notes
+Displays the list of notes specific to the logged-in user. Users can add, edit, or delete notes.
+![Notes List]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 5. Edit note
+a modal interface allows users to modify the title and content of an existing note.
+![Edit Note]
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 6. Logout confirmation
+Users can securely log out of the application.
+![Logout]
+
+### 7. Appwrite backend dashboard
+The backend database collection showing stored notes with their respective `userId` for security.
+![Appwrite Dashbord]
+### 8. Ayth dashboard
