@@ -36,6 +36,7 @@ Users can securely log out of the application.
 
 ### 7.Appwrite backend dashboard
 The backend database collection showing stored notes with their respective `userId` for security
+<img width="1915" height="904" alt="image" src="https://github.com/user-attachments/assets/0d45ac3d-a303-4eeb-9781-3456ae19f3ab" />
 
 ### 8.Ayth dashboard
 The backend database collection showing stored users with their info
